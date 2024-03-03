@@ -153,4 +153,36 @@ button,
 .fourth-parts {
     display: flex;
     justify-content: center;
+    padding: 100px;
 }
+
+.fourth-container {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 12px;
+    width: 750px;
+    padding: 50px 100px;
+}
+
+.fourth-items {
+    width: 500px;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+.fourth-button {
+    display: flex;
+    margin-left: auto;
+    align-items: flex-end;
+    padding-bottom: 15px;
+}
+
+.button-items {
+    border-radius: 12px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    padding: 10x 40px;
+    font-size: medium;
+}
+
