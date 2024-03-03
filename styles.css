@@ -60,6 +60,7 @@ button {
     padding: 10px 35px 10px 35px;
     font-weight: bold;
     border-color: #3882F6;
+    border-style: solid;
 }
 
 .placeholder {
