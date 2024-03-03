@@ -149,3 +149,8 @@ button,
     font-weight: 700;
     width: 720px;
 }
+
+.fourth-parts {
+    display: flex;
+    justify-content: center;
+}
